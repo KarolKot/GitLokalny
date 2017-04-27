@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    background-color: #FFFFEE;
+    border: solid 4px black;
+    margin: 1em auto;
+}
+
+th, td {
+    border: solid 2px black;
+    padding: 0.25em;
+}
+
+th {
+    background-color: #FFEEFF;
+}
